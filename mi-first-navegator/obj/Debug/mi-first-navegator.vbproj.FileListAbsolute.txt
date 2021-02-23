@@ -1,0 +1,12 @@
+C:\Users\18095\Documents\Programming\mi-first-navegator\bin\Debug\mi-first-navegator.exe.config
+C:\Users\18095\Documents\Programming\mi-first-navegator\bin\Debug\mi-first-navegator.exe
+C:\Users\18095\Documents\Programming\mi-first-navegator\bin\Debug\mi-first-navegator.pdb
+C:\Users\18095\Documents\Programming\mi-first-navegator\bin\Debug\mi-first-navegator.xml
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.vbprojAssemblyReference.cache
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi_first_navegator.Form1.resources
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi_first_navegator.Resources.resources
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.vbproj.GenerateResource.cache
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.vbproj.CoreCompileInputs.cache
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.exe
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.xml
+C:\Users\18095\Documents\Programming\mi-first-navegator\obj\Debug\mi-first-navegator.pdb
