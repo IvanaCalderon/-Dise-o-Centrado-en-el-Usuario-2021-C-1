@@ -1,0 +1,10 @@
+C:\Users\18095\source\repos\ButtonsLayout\bin\Debug\ButtonsLayout.exe.config
+C:\Users\18095\source\repos\ButtonsLayout\bin\Debug\ButtonsLayout.exe
+C:\Users\18095\source\repos\ButtonsLayout\bin\Debug\ButtonsLayout.pdb
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.csprojAssemblyReference.cache
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.Form1.resources
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.Properties.Resources.resources
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.csproj.GenerateResource.cache
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.csproj.CoreCompileInputs.cache
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.exe
+C:\Users\18095\source\repos\ButtonsLayout\obj\Debug\ButtonsLayout.pdb
